@@ -23,6 +23,9 @@ Dystrybuanta empiryczna ecdf(X)<br>
 
 <br><img src="./A4.png" style="max-width:80%;">
 
+<h3> Odpowiedź do zadania A.5</h3>
+Teoretycznie: EX=3,5 oraz D^2X=<br>
+
 <h3> Odpowiedź do zadania B.2</h3>
 Rozkład masy prawdopodobieństwa pmf(X)<br>
 
@@ -68,23 +71,6 @@ Rozkład masy prawdopodobieństwa pmf(X)<br>
 
 <br><img src="./E4.png">
 
-<h2> Odpowiedź do zadania D.2</h2> empiryczny rozkład prawdopodobieństwa<br>
 
-<br><img src="./I2.png">
-
-<h2> Odpowiedź do zadania D.3</h2> kombinatoryka dla 1-10 kostek <br>
-
-<br><img src="./I32.png">
-
-<br><br>
-
-<h2> Odpowiedź do zadania D.5</h2> porównanie z rozkładem teoretycznym <br>
-
-<br><img src="./D5.png">
-
-
-<h2> Odpowiedź E.4</h2> porównanie z rozkładem normalnym N(70/2 , 5*sqrt(7/6))<br>
-
-<br><img src="./E4.png">
 
 </body></html>
